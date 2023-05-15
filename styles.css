@@ -11,12 +11,12 @@
             background-color: rgb(91, 88, 88);
             border-radius: 18px;
         }
-        #animal-photos #photo-heading{
+        #animal-photos .heading{
             text-align: center;
             color: white;
              
         }
-        #animal-photos #photo-heading h1{
+        #animal-photos .heading #photo-heading{
             /* border: 2px solid red; */
             font-size: 2.5vw;
             padding-top: 2vw;
